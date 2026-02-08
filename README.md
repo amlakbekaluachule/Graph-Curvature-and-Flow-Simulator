@@ -1,6 +1,6 @@
-# GeoFlow
+# Graph Curvature and Flow Simulator
 
-GeoFlow is a research-oriented codebase for discrete differential geometry on graphs.
+(A a research-oriented codebase for discrete differential geometry on graphs)
 
 It implements Ollivier–Ricci curvature, optimal transport, and Ricci flow from first principles, and uses curvature evolution to study geometric and topological behavior of discrete spaces.
 
